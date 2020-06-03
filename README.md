@@ -1,0 +1,2 @@
+# Quantum Risk Analysis with QAE 
+Computing the risk measures to a simple two-asset portfolio. The QAE algorithm is applied with the Monte Carlo method to estimate the expected loss and the cumulative distribution function (CDF) to measure value at risk (VaR) and conditional value at risk (CVaR). The QAE was able to provide a quadratic speedup compared to the classical methods, providing much greater efficiency and accuracy.
